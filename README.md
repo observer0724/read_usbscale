@@ -1,2 +1,5 @@
 # read_usbscale
-Try to publish data from usbscale to ROS.
+
+
+
+Publishing data from a usb scale to ROS nodes.
