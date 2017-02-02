@@ -7,7 +7,7 @@ Modified from https://github.com/erjiang/usbscale
 The program externs the code in usbscale.c to read data from the usbscale in scale_publisher.cpp to publish it. 
 
 To publish, use 
-  $rosrun scaler scale_publisher 
+  $rosrun scaler usbscaler
 
 The fastest speed of reading is about 1 result per second.
 
